@@ -1,0 +1,42 @@
+{
+    "慕诚 (1).xlsx": {
+        "sheetName": "Sheet1",
+        "begRow": 2,
+        "titleColumn": {
+            "员工账号户名*": "B",
+            "员工账号*": "C"
+        }
+    },
+    "慕诚 (3).xlsx": {
+        "sheetName": "Sheet1",
+        "begRow": 2,
+        "titleColumn": {
+            "员工账号户名*": "B",
+            "员工账号*": "C"
+        }
+    },
+    "慕诚.xlsx": {
+        "sheetName": "Sheet1",
+        "begRow": 2,
+        "titleColumn": {
+            "员工账号户名*": "B",
+            "员工账号*": "C"
+        }
+    },
+    "慕宸慕勒科技.xlsx": {
+        "sheetName": "Sheet1",
+        "begRow": 2,
+        "titleColumn": {
+            "员工账号户名*": "B",
+            "员工账号*": "C"
+        }
+    },
+    "慕宸慕勒家居.xlsx": {
+        "sheetName": "Sheet1",
+        "begRow": 2,
+        "titleColumn": {
+            "员工账号户名*": "B",
+            "员工账号*": "C"
+        }
+    }
+}

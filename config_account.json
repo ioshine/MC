@@ -1,0 +1,10 @@
+{
+    "fileName": "2022年经销商收款.xlsx",
+    "sheetName": "经销商收款",
+    "begRow": 2,
+    "companyColumn": "C",
+    "plusColumn": ["F", "H"],
+    "subtractColumn": ["G", "I"],
+    "thisMoneyColumn": "K",
+    "allMoneyColumn": "L"
+}
